@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'tishreen-app',
+  title: 'tishreen',
 
-  projectId: '4wvyodq5',
+  projectId: 'yhr3dytc',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
